@@ -1,0 +1,13 @@
+*{
+    color : white;
+    font-family : "Times New Roman";
+    background-color : white;
+}
+
+div {
+    background-color: red; 
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
